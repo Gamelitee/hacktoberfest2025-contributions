@@ -1,12 +1,16 @@
 import { useSelector } from "react-redux";
 
 export const AddToCart = () => {
-  const selector = useSelector((state) => state.cart.value);
-  console.log(selector);
+  const cartCount = useSelector((state) => state.cart.value);
+  
   return (
-    <div className="cart-container">
-      <span className="cart-icon">🛒</span>
-      <span className="cart-count">{selector}</span>
-    </div>
+    <button 
+      className="cart-container" 
+      aria-label={`Shopping cart with ${cartCount} items`}
+      title="View shopping cart"
+    >
+      <span className="cart-icon" aria-hidden="true">🛒</span>
+      <span className="cart-count" aria-live="polite">{cartCount}</span>
+    </button>
   );
 };
